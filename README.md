@@ -1,1 +1,1 @@
-Social Network called Twidder using HTML, CSS, JavaScript, Python, REST and SQL. This repository contains the server-side, the client-side and the middleware.
+Social Network called Twidder using HTML, CSS, JavaScript, Python, REST and SQL. This repository contains the server-side, the client-side and an asynchronous client-server communication. It was tested using Selenium. Further security measures were applied as hashing the passwords before storing in the database and protecting the token while being transmitted.
